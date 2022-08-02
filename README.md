@@ -1,5 +1,5 @@
 # MonteCarlo-MotorTeam-Sim
-The MonteCarlo-MotorTeam-Sim repository provides the simulation software and source codes made by LabVIEW, which are used in the research article "Torque force in the kinesin stroke drives coupled yaw axis and orbital rotations of kinesin coated gold nanorods” written by M. Sugawa et al.
+The MonteCarlo-MotorTeam-Sim repository provides the simulation software and source codes made by LabVIEW, which are used in the research article "Motor generated torque drives coupled yawing and orbital rotations of kinesin coated gold nanorods" written by M. Sugawa et al.
 
 ## LabVIEW Version
 The LabVIEW source VI codes in this repository are saved for LabVIEW 2020 (32bit) but are forward compatible to newer versions.
